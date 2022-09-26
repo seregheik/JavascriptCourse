@@ -1,1 +1,1 @@
-Hatesh makes javascript absolutely fun and engaging
+Hitesh makes javascript absolutely fun and engaging

@@ -3,6 +3,7 @@ var fullName = 'Osasere Ikponmwosa';
 //how to name variables
 
 // do not start a variable with uppercase letters
+// do not start varibles with numbers
 // permitted models
 // fullName - camelcase
 // full-name

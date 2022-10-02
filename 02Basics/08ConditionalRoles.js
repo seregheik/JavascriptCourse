@@ -4,7 +4,7 @@
 // testprep - gets access to create/delete tests 
 // user - gets access to consume content
 
-var user = "admi";
+var user = "admin";
 
 switch (user) {
     case "testprep":

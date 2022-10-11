@@ -13,3 +13,4 @@ function miguor() {
 var greetings = miguor();
 
 console.log(greetings)
+console.log(miguor())

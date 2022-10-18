@@ -19,7 +19,7 @@ const naijaStates = new Array(
 // }
 
 
-let i = 0
+let i = 0;
 
 while (i < naijaStates.length) {
     console.log(naijaStates[i])

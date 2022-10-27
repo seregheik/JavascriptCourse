@@ -1,11 +1,12 @@
-const names = new Array (
-    'Youtube',
-    'Facebook',
-    'Instagram',
-    'Netflix',
-    'Amazon' 
+const naijaStates = new Array(
+    "Edo",
+    "Lagos",
+    "Ogun",
+    "Rivers",
+    2012,
+    "Delta",
+    "Sokoto",
+    "Kwara"
 );
 
-for (let index = 0; index < names.length; index++) {
-   console.log(names)
-}
+naijaStates.forEach((S) => (console.log(S)));

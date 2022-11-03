@@ -1,5 +1,4 @@
 body {
-  background: rgb(66, 66, 66);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -8,6 +7,14 @@ body {
   text-align: center;
   color: aliceblue;
 }
+.brown {
+  background: rgb(66, 66, 66);
+}
+
+.yellow {
+  background: rgb(145, 111, 0);
+}
+
 .description {
   transition: 0.9s ease-in-out;
 }

@@ -27,4 +27,8 @@ setInterval(() => {
   } else {
     count = 0
   };
-}, 60);
+}, 0.1);
+
+setTimeout(() => {
+    followers.innerText = 'heyyo'
+}, 7000 );

@@ -26,6 +26,5 @@ setInterval(() => {
     counter.innerText = count;
   } else {
     count = 0
-  }
-  
+  };
 }, 60);
